@@ -12,7 +12,8 @@ If you'd like to hit the ground running,
     ```bash
     git clone https://github.com/anthonycorletti/partykit-nextjs-monaco-editor-example.git && cd partykit-nextjs-monaco-editor-example
     bun install
-    bun dev
+    bun dev # in one shell session 
+    bun run pk-dev # in another shell session
     ```
 
 ## Starting from scratch
