@@ -284,7 +284,7 @@ If you'd like to dig in a bit deeper, here's how I made this step by step if you
     bun add postcss-nesting -D
     ```
 
-
+    Voila! No more gnarly logs.
 
 ## Learn More
 
