@@ -1,0 +1,6 @@
+{
+  "$schema": "https://www.partykit.io/schema.json",
+  "name": "partykit-nextjs-monaco-editor-example-party",
+  "main": "lib/pk.ts",
+  "compatibilityDate": "2024-03-14"
+}
